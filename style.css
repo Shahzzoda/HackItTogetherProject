@@ -1,0 +1,24 @@
+h1 {
+	color: aqua;
+}
+
+div {
+	/*border: 1px solid red;
+	*/
+}
+
+.chatbot {
+	width: 100%;
+	height: 100%;
+}
+
+#myCanvas{
+	max-width: 100%;
+	display: flex;
+	
+}
+
+body, html, .container, .container-fluid {
+	width: 100%;
+	height: 100%;
+}
