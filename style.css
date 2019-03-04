@@ -7,7 +7,13 @@ h4{
 	color: black;
 }
 
+body {
+	background: #003876;
+}
 
+container, .flex-column {
+	background: white;
+}
 img {
 	height: 80px;
 	width: auto;
